@@ -17,6 +17,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[İstanbul PHP](#istanbulphp)**
 *   **[Hackathon Turkiye](#hackathonturkiye)**
 *   **[2Friday Hackathon](#2Friday)**
+*   **[YazBel Forumu](#YazBel)**
 
 
 ## <a name="gdg"></a> GDG
@@ -140,3 +141,11 @@ Son zamanlarda ülkemizde hızla yaygınlaşan hackathonların daha geniş kitle
 [Twitter](https://twitter.com/_2friday)
 
 [Youtube](https://www.youtube.com/channel/UCDijlt-IYXjAD57V1ux__RA)
+
+## <a name="YazBel"></a> YazBel Forumu
+
+YazBel forumu bir Türkçe programlama forumudur.
+Burada çeşitli programlama dilleri, çatılar(frameworks), kütüphaneler, teknolojiler ve araçlar ile ilgili sorular sorulabilir.
+Forum şu sıralar 200'e yakın katılımcısı ile aktiftir.
+
+[Website](https://forum.yazbel.com/)
